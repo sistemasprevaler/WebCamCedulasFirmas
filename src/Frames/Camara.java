@@ -29,7 +29,7 @@ import javax.swing.JOptionPane;
 
 
 public final class Camara extends javax.swing.JFrame {
-    
+    //DAVID ALVAREZ
     public static Webcam webc;
     public Dimension dd;
     boolean ejecutando = true;
